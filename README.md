@@ -1,4 +1,3 @@
-HE
 # early-evening-star
 "Ah,poet,the evening draws near;your hair is turning gray."
 
@@ -13,4 +12,4 @@ HE
 "The early evening star disappears."
 
 
-Tagore, R.*The Gardener*
+__Tagore, R. *The Gardener*
